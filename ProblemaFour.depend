@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607038332 source:c:\users\pichau\desktop\fatec\semestre 2\linguagem de programação\problemafour\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"cabec.h"
+
+1607037868 c:\users\pichau\desktop\fatec\semestre 2\linguagem de programação\problemafour\cabec.h
+
